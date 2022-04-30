@@ -95,12 +95,12 @@
 <h2>- Ejercicio individual José André Paredes Quispe</h2><br>
 - Link de mi repositorio : <a href="https://github.com/Jerbo03/pweb2-lab2-copia_personal.git"> https://github.com/Jerbo03/pweb2-lab2-copia_personal.git</a><br>
 - Commits realizados<br>	
-	<img src="https://user-images.githubusercontent.com/90292121/166088208-5d660d34-a131-4e25-b690-f986bbd49369.png" alt="">
+	<imggit src="https://user-images.githubusercontent.com/90292121/166088208-5d660d34-a131-4e25-b690-f986bbd49369.png" alt="">
 <br><br>
 <h2>- Ejercicio individual Daniel Edward Tapia Saenz</h2><br>
 - Link de mi repositorio : <a href="https://github.com/Daunsa/prueba.git"> https://github.com/Daunsa/prueba.git</a><br>
 - Commits realizados<br>	
-	<img src="https://ibb.co/9qhmMHV" alt="">
+	<img src="https://i.ibb.co/vJhCt4Q/carpeta.png" alt="">
 <br><br>
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
