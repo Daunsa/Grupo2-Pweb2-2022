@@ -55,7 +55,7 @@
 				<td colspan="3">INTEGRANTES:
 					<ul>
 					<li><a href="https://github.com/Daunsa">Daniel Edwad Tapia Saenz</a></li>
-					<li>Michael Benjamin Suclle Suca</li>
+					<li><a href="https://github.com/timysuclle3">Michael Benjamin Suclle Suca</a></li>
 					<li><a href="https://github.com/Jerbo03">José André Paredes Quispe</a></li>
 				        <li><a href="https://github.com/Icielo23">Valery Cielo Iquise Mamani</a></li>
 					<li><a href="https://github.com/Mario-Chura">Mario Franco Chura Puma</a></li>
@@ -93,14 +93,19 @@
 	<img src="https://i.ibb.co/N1F1zhQ/d3234947-5e04-462c-ba2c-099e0d244861.jpg" alt="">
 <br><br>
 <h2>- Ejercicio individual José André Paredes Quispe</h2><br>
-- Link de mi repositorio : <a href="https://github.com/Jerbo03/pweb2-lab1.git">https://github.com/Jerbo03/pweb2-lab1.git</a><br>
+- Link de mi repositorio : <a href="https://github.com/Jerbo03/pweb2-lab2-copia_personal.git"> https://github.com/Jerbo03/pweb2-lab2-copia_personal.git</a><br>
 - Commits realizados<br>	
-	<img src="https://i.ibb.co/DRdV5jn/Whats-App-Image-2022-04-29-at-23-02-41.jpg" alt="">
+	<imggit src="https://user-images.githubusercontent.com/90292121/166088208-5d660d34-a131-4e25-b690-f986bbd49369.png" alt="">
 <br><br>
 <h2>- Ejercicio individual Daniel Edward Tapia Saenz</h2><br>
 - Link de mi repositorio : <a href="https://github.com/Daunsa/prueba.git"> https://github.com/Daunsa/prueba.git</a><br>
 - Commits realizados<br>	
 	<img src="https://i.ibb.co/vJhCt4Q/carpeta.png" alt="">
+<br><br>
+<h2>- Ejercicio individual Michael Benjamin Suclle Suca</h2><br>
+- Link de mi repositorio : <a href="https://github.com/timysuclle3/Mi_hola_mundoPweb2.git"> https://github.com/timysuclle3/Mi_hola_mundoPweb2.git</a><br>
+- Commits realizados<br>	
+	<img src="https://ibb.co/1XnRmx3" alt="">
 <br><br>
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
