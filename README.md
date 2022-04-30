@@ -114,7 +114,10 @@ al mantenimiento de diferentes entornos, etc.<br>
 <table>
 <theader>
 <tr><th colspan="6">RETROALIMENTACIÓN GENERAL</th></tr>
-- Guardando cambios en el Repositorio
+</theader>
+<tbody>
+	<td>
+	- Guardando cambios en el Repositorio
 Ya tienes un repositorio Git y un checkout o copia de trabajo de los archivos de dicho proyecto. El siguiente paso es realizar algunos cambios y confirmar instantáneas de esos cambios en el repositorio cada vez que el proyecto alcance un estado que quieras conservar.
 
 Recuerda que cada archivo de tu repositorio puede tener dos estados: rastreados y sin rastrear. Los archivos rastreados (tracked files en inglés) son todos aquellos archivos que estaban en la última instantánea del proyecto; pueden ser archivos sin modificar, modificados o preparados. Los archivos sin rastrear son todos los demás - cualquier otro archivo en tu directorio de trabajo que no estaba en tu última instantánea y que no está en el área de preparación (staging area). Cuando clonas por primera vez un repositorio, todos tus archivos estarán rastreados y sin modificar pues acabas de sacarlos y aun no han sido editados.
@@ -123,10 +126,6 @@ Mientras editas archivos, Git los ve como modificados, pues han sido cambiados d
 <img src="https://git-scm.com/book/en/v2/images/lifecycle.png" alt="">
 - Fuente: 
 <a href="https://github.com/Mario-Chura">https://git-scm.com/book/es/v2/Fundamentos-de-Git-Guardando-cambios-en-el-Repositorio</a>
-</theader>
-<tbody>
-	<td>
-	- 
 	</td>
 </tbody>
 </table>
