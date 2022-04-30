@@ -105,7 +105,7 @@
 <h2>- Ejercicio individual Michael Benjamin Suclle Suca</h2><br>
 - Link de mi repositorio : <a href="https://github.com/timysuclle3/Mi_hola_mundoPweb2.git"> https://github.com/timysuclle3/Mi_hola_mundoPweb2.git</a><br>
 - Commits realizados<br>	
-	<img src="https://ibb.co/1XnRmx3" alt="">
+	<img src="https://i.ibb.co/5j9sRVd/Captura-web-29-4-2022-233320-github-com.jpg" alt="">
 <br><br>
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
