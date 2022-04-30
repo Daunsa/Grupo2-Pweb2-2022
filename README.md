@@ -91,6 +91,11 @@
 - Link de mi repositorio : <a href="https://github.com/Icielo23/Proyecto-LAB1.git"> https://github.com/Icielo23/Proyecto-LAB1.git</a><br>
 - Commits realizados<br>	
 	<img src="https://i.ibb.co/N1F1zhQ/d3234947-5e04-462c-ba2c-099e0d244861.jpg" alt="">
+<br><br>
+<h2>- Ejercicio individual José André Paredes Quispe</h2><br>
+- Link de mi repositorio : <a href="https://github.com/Jerbo03/pweb2-lab2-copia_personal.git"> https://github.com/Jerbo03/pweb2-lab2-copia_personal.git</a><br>
+- Commits realizados<br>	
+	<img src="https://user-images.githubusercontent.com/90292121/166088208-5d660d34-a131-4e25-b690-f986bbd49369.png" alt="">
 <br><br></td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
 <h2>- ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?</h2><br>
