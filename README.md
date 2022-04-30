@@ -54,7 +54,7 @@
 			<tr>
 				<td colspan="3">INTEGRANTES:
 					<ul>
-					<li>Daniel Edwad Tapia Saenz</li>
+					<li><a href="https://github.com/Daunsa">Daniel Edwad Tapia Saenz</a></li>
 					<li>Michael Benjamin Suclle Suca</li>
 					<li><a href="https://github.com/Jerbo03">José André Paredes Quispe</a></li>
 				        <li><a href="https://github.com/Icielo23">Valery Cielo Iquise Mamani</a></li>
@@ -96,7 +96,13 @@
 - Link de mi repositorio : <a href="https://github.com/Jerbo03/pweb2-lab2-copia_personal.git"> https://github.com/Jerbo03/pweb2-lab2-copia_personal.git</a><br>
 - Commits realizados<br>	
 	<img src="https://user-images.githubusercontent.com/90292121/166088208-5d660d34-a131-4e25-b690-f986bbd49369.png" alt="">
-<br><br></td></tr>
+<br><br>
+<h2>- Ejercicio individual Daniel Edward Tapia Saenz</h2><br>
+- Link de mi repositorio : <a href="https://github.com/Daunsa/prueba.git"> https://github.com/Daunsa/prueba.git</a><br>
+- Commits realizados<br>	
+	<img src="https://ibb.co/9qhmMHV" alt="">
+<br><br>
+</td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
 <h2>- ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?</h2><br>
 - Git es importante en el presente curso porque nos permite hacer un trabajo colaborativo y por medio de sus herramientas podemos saber quién hizo una modificación y cuando lo hizo, también podemos regresar a un estado temporal de nuestro proyecto de modo que nos permite ver el historial de los cambios.<br>
