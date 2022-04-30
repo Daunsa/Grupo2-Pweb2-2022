@@ -105,7 +105,8 @@
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
 <h2>- ¿Por qué Git es una herramienta importante en el curso de Programación Web 2?</h2><br>
-- Git es importante en el presente curso porque nos permite hacer un trabajo colaborativo y por medio de sus herramientas podemos saber quién hizo una modificación y cuando lo hizo, también podemos regresar a un estado temporal de nuestro proyecto de modo que nos permite ver el historial de los cambios.<br>
+- Git es importante en el presente curso porque nos permite hacer un trabajo colaborativo y por medio de sus herramientas podemos saber quién hizo una modificación y cuando lo hizo, también podemos regresar a un estado temporal de nuestro proyecto de modo que nos permite ver el historial de los cambios.
+<br>
 <br><br></td></tr>
 <tr><td>III. CONCLUSIONES<br>
 - Github nos permite trabajar en equipo, donde varios desarrolladores trabajen al mismo tiempo y de forma paralela en un
@@ -116,6 +117,8 @@ enviar cambios sin nesecidad de estar conectado dado a que se trabaja con un rep
 al mantenimiento de diferentes entornos, etc.<br>
 - Podemos decir que dejar tus proyectos como repositorios en Github, es una decisión altamente eficiente, en el caso de los repositorios públicos, porque te beneficiarás de los conocimientos de otros programadores, y en el caso de los privados, se dispone de un sistema de gestión de proyectos que hará que el trabajo en equipo sea mucho más rápido.
 - En un futuro profesional, la aplicación de Git y GitHub para el desarrollo de sofware en equipo será vital. Además, el registro de los proyectos que creamos fundamenta nuestro portafolio como programadores y desarrolladores.	
+- Git hace posible que podamos desarrollar de forma colaborativa y simultanea un mismo proyecto en equipo, por lo que para todo programador es una herramienta bastante eficiente
+- Git nos permite realizar un trabajo sobre un mismo proyecto de forma grupal por lo que se ahorra demasiado tiempo tanto en cordinacion como codificacion de nuestras ideas.
 <br>  
 
 <br><br></td></tr>
