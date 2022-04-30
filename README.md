@@ -116,9 +116,9 @@ enviar cambios sin nesecidad de estar conectado dado a que se trabaja con un rep
 - Github nos ayuda a la detección de fallos, a disminuir errores humanos, al seguimiento por etapas cerca del proyecto, 
 al mantenimiento de diferentes entornos, etc.<br>
 - Podemos decir que dejar tus proyectos como repositorios en Github, es una decisión altamente eficiente, en el caso de los repositorios públicos, porque te beneficiarás de los conocimientos de otros programadores, y en el caso de los privados, se dispone de un sistema de gestión de proyectos que hará que el trabajo en equipo sea mucho más rápido.
-- En un futuro profesional, la aplicación de Git y GitHub para el desarrollo de sofware en equipo será vital. Además, el registro de los proyectos que creamos fundamenta nuestro portafolio como programadores y desarrolladores.	
-- Git hace posible que podamos desarrollar de forma colaborativa y simultanea un mismo proyecto en equipo, por lo que para todo programador es una herramienta bastante eficiente
-- Git nos permite realizar un trabajo sobre un mismo proyecto de forma grupal por lo que se ahorra demasiado tiempo tanto en cordinacion como codificacion de nuestras ideas.
+- En un futuro profesional, la aplicación de Git y GitHub para el desarrollo de sofware en equipo será vital. Además, el registro de los proyectos que creamos fundamenta nuestro portafolio como programadores y desarrolladores.	<br>
+- GitHub hace posible que podamos desarrollar de forma colaborativa y simultanea un mismo proyecto en equipo, por lo que para todo programador es una herramienta bastante eficiente.<br>
+- GitHub nos permite realizar un trabajo sobre un mismo proyecto de forma grupal por lo que se ahorra demasiado tiempo tanto en cordinacion como codificacion de nuestras ideas.
 <br>  
 
 <br><br></td></tr>
