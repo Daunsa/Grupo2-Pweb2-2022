@@ -95,7 +95,7 @@
 <h2>- Ejercicio individual José André Paredes Quispe</h2><br>
 - Link de mi repositorio : <a href="https://github.com/Jerbo03/pweb2-lab1.git">https://github.com/Jerbo03/pweb2-lab1.git</a><br>
 - Commits realizados<br>	
-	<img src="https://ibb.co/mcpD6P7" alt="">
+	<img src="https://i.ibb.co/DRdV5jn/Whats-App-Image-2022-04-29-at-23-02-41.jpg" alt="">
 <br><br>
 <h2>- Ejercicio individual Daniel Edward Tapia Saenz</h2><br>
 - Link de mi repositorio : <a href="https://github.com/Daunsa/prueba.git"> https://github.com/Daunsa/prueba.git</a><br>
