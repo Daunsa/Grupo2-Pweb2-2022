@@ -93,9 +93,9 @@
 	<img src="https://i.ibb.co/N1F1zhQ/d3234947-5e04-462c-ba2c-099e0d244861.jpg" alt="">
 <br><br>
 <h2>- Ejercicio individual José André Paredes Quispe</h2><br>
-- Link de mi repositorio : <a href="https://github.com/Jerbo03/pweb2-lab2-copia_personal.git"> https://github.com/Jerbo03/pweb2-lab2-copia_personal.git</a><br>
+- Link de mi repositorio : <a href="https://github.com/Jerbo03/pweb2-lab1.git">https://github.com/Jerbo03/pweb2-lab1.git</a><br>
 - Commits realizados<br>	
-	<imggit src="https://user-images.githubusercontent.com/90292121/166088208-5d660d34-a131-4e25-b690-f986bbd49369.png" alt="">
+	<imggit src="https://ibb.co/mcpD6P7" alt="">
 <br><br>
 <h2>- Ejercicio individual Daniel Edward Tapia Saenz</h2><br>
 - Link de mi repositorio : <a href="https://github.com/Daunsa/prueba.git"> https://github.com/Daunsa/prueba.git</a><br>
